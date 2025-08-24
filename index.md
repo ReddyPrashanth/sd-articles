@@ -13,7 +13,7 @@ Whether you’re a student, preparing for interviews, or just curious about how 
 
 ## 📚 Articles in this series
 
-- [URL Shortener: Designing a Scalable Redirect Service]({{ '/sd-articles/url-shortener/' | relative_url }})
+- [URL Shortener: Designing a Scalable Redirect Service]({{ '/url-shortener' | relative_url }})
 
 *(More topics coming soon: Distributed Storage, Consistent Hashing, CAP Theorem, etc.)*
 
